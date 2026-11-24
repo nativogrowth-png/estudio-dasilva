@@ -6,9 +6,9 @@
 window.SITE = {
   PROMESA_ACTIVA: 'A',
   PROMESAS: {
-    A: { l1: 'Dedicate a tu negocio.', l2: 'De la DGI y el BPS me ocupo yo.' },
+    A: { l1: 'Dedicate a tu negocio.', l2: 'De la DGI y el BPS nos ocupamos nosotros.' },
     B: { l1: 'Tus impuestos y sueldos al día,', l2: 'sin que tengas que pensar en ellos.' },
-    C: { l1: 'Tu contadora de confianza,', l2: 'a un WhatsApp de distancia.' }
+    C: { l1: 'Tu estudio contable de confianza,', l2: 'a un WhatsApp de distancia.' }
   },
   WHATSAPP: '59899950727',
   TELEFONO: '+59826220865',
